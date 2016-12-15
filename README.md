@@ -1,6 +1,6 @@
 # Hungry Shark
 
-饥饿鲨鱼<br/>
+## 饥饿鲨鱼<br/>
 
 #### Powered by [JustWeEngine](https://github.com/lfkdsk/JustWeEngine)<br/>
 
